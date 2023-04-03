@@ -1,0 +1,9 @@
+div{
+    color: rgb(255, 255, 255);
+    margin: 10em;
+    padding: 2em;
+    background-color: rgba(0, 0, 0, 0.319);
+    display: block;
+    text-align: center;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
