@@ -91,7 +91,6 @@
             else {
             document.body.style.backgroundColor = "#3F1673";
             }
- 
        }
     </script>
 </body>
